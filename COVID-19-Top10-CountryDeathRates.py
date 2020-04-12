@@ -3,7 +3,6 @@ import pandas as pd
 import os
 import datetime
 import matplotlib.pyplot as plt
-import matplotlib
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
 data_path = dir_path + '/Data/'
